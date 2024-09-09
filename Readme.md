@@ -10,8 +10,10 @@ Feature to work on
 * [ ] A way to add various column of the data  to plot in the graph
 
 ## Troubleshooting and steps to build the code
-- [Add static video](https://community.plotly.com/t/adding-video-player/5303)
-
+- To add static video [Plotly community answer](https://community.plotly.com/t/adding-video-player/5303)
+- To add a drake mode
+    - To make plot darkly [Plotly community answer]()
+    - To make dropbox dark [Stackoverflow](https://stackoverflow.com/a/78749010)
 ### Resource used for code 
 - [Sync-bokeh-plot-to-a-video](https://bartbroere.eu/2019/09/14/sync-bokeh-plot-to-a-video/)
 
